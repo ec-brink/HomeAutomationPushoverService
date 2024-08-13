@@ -1,0 +1,5 @@
+C:\Users\brink\source\repos\HomeAutomationService\HomeAutomationService\obj\Debug\HomeAutomationService.csproj.AssemblyReference.cache
+C:\Users\brink\source\repos\HomeAutomationService\HomeAutomationService\obj\Debug\HomeAutomationService.HomeAutomationService.resources
+C:\Users\brink\source\repos\HomeAutomationService\HomeAutomationService\obj\Debug\HomeAutomationService.ProjectInstaller.resources
+C:\Users\brink\source\repos\HomeAutomationService\HomeAutomationService\obj\Debug\HomeAutomationService.csproj.GenerateResource.cache
+C:\Users\brink\source\repos\HomeAutomationService\HomeAutomationService\obj\Debug\HomeAutomationService.csproj.CoreCompileInputs.cache

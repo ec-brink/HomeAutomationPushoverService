@@ -1,0 +1,10 @@
+{
+  "DatabaseWriteThreadSleepMilliSeconds": 100,
+  "ServiceStopWaitSeconds": 5,
+  "WindowsEventLogApplicationName": "HAS Syslog",
+  "LogDirectory": "logs",
+  "LogFileLevel": "Information",
+  "DatabaseConnectionString": "",
+  "SyslogPort": 514,
+  "StoredProcedure": "dbo.sp_Syslog_Insert"
+}

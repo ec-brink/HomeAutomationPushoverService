@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomationService", "HomeAutomationService\HomeAutomationService.csproj", "{CCD11277-D0D8-4848-ACCD-D13427C0BBD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomationServiceLogic", "HomeAutomationServiceLogic\HomeAutomationServiceLogic.csproj", "{8A6CD958-7817-4B5A-A117-09968EF8B0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomationServiceConsole", "HomeAutomationServiceConsole\HomeAutomationServiceConsole.csproj", "{7B103DD8-6B2D-484B-9245-D8E8409F09EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSCHelpers", "TSCHelpers\TSCHelpers.csproj", "{0747D20B-8547-4C81-BD72-4DD13B073A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD11277-D0D8-4848-ACCD-D13427C0BBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD11277-D0D8-4848-ACCD-D13427C0BBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD11277-D0D8-4848-ACCD-D13427C0BBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD11277-D0D8-4848-ACCD-D13427C0BBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6CD958-7817-4B5A-A117-09968EF8B0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6CD958-7817-4B5A-A117-09968EF8B0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6CD958-7817-4B5A-A117-09968EF8B0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6CD958-7817-4B5A-A117-09968EF8B0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B103DD8-6B2D-484B-9245-D8E8409F09EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B103DD8-6B2D-484B-9245-D8E8409F09EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B103DD8-6B2D-484B-9245-D8E8409F09EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B103DD8-6B2D-484B-9245-D8E8409F09EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0747D20B-8547-4C81-BD72-4DD13B073A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0747D20B-8547-4C81-BD72-4DD13B073A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0747D20B-8547-4C81-BD72-4DD13B073A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0747D20B-8547-4C81-BD72-4DD13B073A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE8BE33B-6D2E-4C4A-97F1-6247D11CD9D1}
+	EndGlobalSection
+EndGlobal
